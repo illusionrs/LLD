@@ -7,5 +7,8 @@ public class Refill {
     private RefillType refillType;
     private Nib nib;
     private Ink ink;
+    public boolean getRefillable() {
+        return false;
+    }
     
 }
