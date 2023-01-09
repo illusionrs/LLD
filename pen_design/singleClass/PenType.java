@@ -1,4 +1,4 @@
-package pen_design.models;
+package pen_design.singleClass;
 
 public enum PenType {
    GEL, BALL, FOUNTAIN, MARKER
